@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Jacket Jeans",
+    "price": 50,
+    "image": "product1"
+  },
+  {
+    "id": 2,
+    "title": "Arcylic Sweater",
+    "price": 70,
+    "image": "product2"
+  },
+  {
+    "id": 3,
+    "title": "Jacket Jeans",
+    "price": 70,
+    "image": "product3"
+  },
+  {
+    "id": 4,
+    "title": "Arcylic Sweater",
+    "price": 70,
+    "image": "product4"
+  },
+  {
+    "id": 5,
+    "title": "Jacket Jeans",
+    "price": 70,
+    "image": "product2"
+  },
+  {
+    "id": 6,
+    "title": "Arcylic Sweater",
+    "price": 70,
+    "image": "product1"
+  }
+]
